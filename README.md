@@ -1,5 +1,4 @@
-# EduLearn-Online-Education-System
-# EduLearn - Online Education System
+ haa# EduLearn - Online Education System
 
 ## 📚 Project Overview
 
@@ -169,12 +168,7 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Pandranki Tanuj Kumar**
-
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-
----
+**bhogapurapu pavithra**
 
 ## ⭐ If you like this project
 
